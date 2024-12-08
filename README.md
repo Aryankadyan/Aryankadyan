@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aryan_kadyan_9ff7de1dd929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryan_kadyan_9ff7de1dd929" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/aryan-kadyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-kadyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-kadyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-kadyan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kadyanaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kadyanaryan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kadyanaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kadyanaryan" height="30" width="40" /></a>
 <a href="https://medium.com/@kadyanaryan744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kadyanaryan744" height="30" width="40" /></a>
