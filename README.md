@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops/Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jai-max](https://github.com/jai-max)
+- 👨‍💻 All of my projects are available at [https://github.com/Aryankadyan](https://github.com/Aryankadyan)
 
 - 📫 How to reach me **kadyanaryan744@gmail.com**
 
