@@ -9,8 +9,6 @@
 <br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AryanKadyan) 
 <br>
-[![Stack Overflow](https://img.shields.io/bge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kadyanaryan) 
-<br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AryanKadyan3)
 <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadyanaryan744@gmail.com) 
